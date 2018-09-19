@@ -1,0 +1,12 @@
+:local .selected {
+    background-color: #6842ff;
+    color: #fff;
+ 	border: none;
+  	opacity: 0.6;
+  	padding: 0.5em;
+  	transition: 0.3s;
+}
+
+:local hr {
+    margin: 0;
+}

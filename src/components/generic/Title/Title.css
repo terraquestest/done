@@ -1,0 +1,9 @@
+:local .title {
+    margin-bottom: -2px;
+    background: #020202;
+    padding: 0.5em;
+}
+
+:local .title h1 {
+    color: #fcfcfc;
+}
